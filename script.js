@@ -6,7 +6,7 @@ let turn = "X";
 let isgameOver = false;
 
 //function to change the turn
-start.play();
+
 const changeTurn = () => {
     
     return turn === "X" ? "0" : "X"
