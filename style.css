@@ -110,7 +110,9 @@ nav ul {
     .gameContainer {
         flex-wrap: wrap;
     }
-    
+    .line{
+        display: none;
+    }
 
     .gameInfo {
         margin-top: 34px;
