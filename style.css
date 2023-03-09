@@ -106,7 +106,7 @@ nav ul {
     transition: width 1s ease-in-out;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .gameContainer {
         flex-wrap: wrap;
     }
@@ -116,7 +116,7 @@ nav ul {
     }
 
     .gameInfo h1 {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 
     .container {
