@@ -106,7 +106,7 @@ nav ul {
     transition: width 1s ease-in-out;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 300px) {
     .gameContainer {
         flex-wrap: wrap;
     }
